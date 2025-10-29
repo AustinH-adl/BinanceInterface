@@ -1,0 +1,10 @@
+# Ignore environment variable files
+constant/.env
+
+# Ignore built files
+build/bin/*
+build/obj/*
+
+BinanceInterface
+
+.vscode
